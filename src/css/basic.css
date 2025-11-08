@@ -12,6 +12,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
 ul{
   margin: 0;
   padding: 0;
